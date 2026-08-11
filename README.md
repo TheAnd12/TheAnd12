@@ -1,5 +1,5 @@
 <h3>André G</h3>
-<p>Olá, me chamo André e tenho grande curiosidade e vontade de aprender programação. Pretendo, no futuro, me tornar um grande desenvolvedor de software. Atualmente, trabalho no Itaú e estou focado em me formar e aprender mais sobre código, para me familiarizar melhor com diferentes linguagens de programação.</p>
+<p>Olá, me chamo André e tenho grande curiosidade e vontade de aprender programação. Pretendo, no futuro, me tornar um grande desenvolvedor de software. Atualmente, estou focado em me formar e aprender mais sobre código, para me familiarizar melhor com diferentes linguagens de programação.</p>
 Linguagens que pretendo me tornar perito.
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
